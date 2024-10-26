@@ -2,7 +2,7 @@
 #include "M22.h"
 #include "M33.h"
 
-int main() {
+int main(int argc, char** argv) {
     int choice;
     std::cout << "Choisissez le type de matrice :\n";
     std::cout << "1. Matrice 2x2\n";
